@@ -47,19 +47,6 @@ class AayamKc:
 
 ---
 
-## 💼 Experience Snapshot
-
-- **Data Analyst Intern @ Cox Communications** (Summer ’25)  
-  Migrated a complex auditing suite from Java → Python, built a centralized front-end, and led pricing analyses that touch **10+ audits**. Also wrangled a social-committee budget and events for 30 interns.
-- **AI Developer Intern @ 1-800-PACKRAT** (Summer ’24)  
-  Deployed fraud-detection models on Azure, saving \$500+/mo, and migrated 10 yrs of analytics data before GA sunset.
-- **Research Assistant** – Balyuk FinTech Lab & Gu/Tang AI Labs  
-  From SQL war-stories on 63 M consumers to GPT-powered TA chatbots used by 120+ students each semester.
-- **President, Asian Student Organization**  
-  Serving Emory’s largest cultural org (600 members) and producing the award-winning **Moonlight Gala**.
-
----
-
 ## 🛠️ Tech Stack
 
 | Domain | Tools |
