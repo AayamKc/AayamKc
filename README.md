@@ -65,32 +65,6 @@ class AayamKc:
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AayamKc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayamKc&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AayamKc&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-| 🏢 **Professional** | 🎓 **Academic** | 🚀 **Personal** |
-|:---:|:---:|:---:|
-| Data Analytics at Cox | CS & Finance at Emory | Building Setlistd |
-| SQL Optimization | Algorithm Design | Music Technology |
-| Business Intelligence | Financial Modeling | Fitness Tracking |
-
-</div>
-
----
 
 ## 🎵 When I'm Not Coding...
 
