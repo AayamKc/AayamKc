@@ -2,8 +2,7 @@
 
 # 👋 Hey there, I'm **Aayam Kc**!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=2F81F7&center=true&vCenter=true&width=650&lines=CS+%40+Emory+University;AI+Engineer;Data+Analyst" alt="Typing SVG" /> alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=2F81F7&center=true&vCenter=true&width=650&lines=CS+%40+Emory+University;AI+Engineer;Data+Analyst"
 </div>
 
 ---
