@@ -56,36 +56,18 @@ class AayamKc:
 - **Research Assistant** – Balyuk FinTech Lab & Gu/Tang AI Labs  
   From SQL war-stories on 63 M consumers to GPT-powered TA chatbots used by 120+ students each semester.
 - **President, Asian Student Organization**  
-  Shepherding Emory’s largest cultural org (600 members) and producing the award-winning **Moonlight Gala**.
+  Serving Emory’s largest cultural org (600 members) and producing the award-winning **Moonlight Gala**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Domain | Tools I Love |
+| Domain | Tools |
 | ------ | ------------ |
 | **Programming** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" title="PostgreSQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" title="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="32" title="C"/> |
 | **Data / ML** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="32" title="Pandas"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="32" title="NumPy"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="32" title="scikit-learn"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="32" title="TensorFlow"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="32" title="PyTorch"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tableau.svg" width="32" title="Tableau" style="background:white; border-radius:4px; padding:2px;"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/powerbi.svg" width="32" title="Power BI" style="background:white; border-radius:4px; padding:2px;"/> |
 | **Web Dev** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" title="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" title="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="32" title="Express"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" title="MongoDB"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" title="PostgreSQL"/> |
 | **Cloud & DevOps** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="32" title="Azure"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg" width="32" title="AWS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="32" title="GCP"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" title="GitHub"/> |
-
----
-
-## 🌱 Currently Learning
-
-- **LLM Ops** – Retrieval-augmented generation & vector DBs  
-- **Distributed systems** – Because 6 M-row dataframes aren’t the capstone  
-- **Front-end finesse** – Animations with Framer Motion & shadcn/ui
-
----
-
-## 🎵 When I’m Not Coding…
-
-| | |
-| :-- | :-- |
-| 🏋️‍♂️ **Weightlifter** | Chasing new PRs and periodizing like a true data nerd |
-| 🎶 **Music Head** | *400k minutes streamed* → Curated playlists for every mood |
-| 🕹️ **Gamer** | Pokémon & indie roguelikes keep the dopamine flowing |
 
 ---
 
